@@ -7,6 +7,10 @@
   "unpkg": "./dist/iv-viewer-v2.umd.js",
   "module": "./dist/iv-viewer-v2.es.js",
   "author": "Jaylen Zeng",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zengjinlong/iv-viewer-v2/tree/main"
+  },
   "files": [
     "dist",
     "README.md"
