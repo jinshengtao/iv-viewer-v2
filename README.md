@@ -1,7 +1,8 @@
 
 # iv-viewer-v2
-
  简易的Vue 2 组件，用于无缝预览图片和视频，可浏览、缩放、旋转和删除。
+
+![截图](./src/static/screenshot.png "截图")
 
 ## 安装
 
