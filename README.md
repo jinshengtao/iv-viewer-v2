@@ -13,10 +13,10 @@
 
 ```bash
 # 使用 npm
-npm install iv-viewer-v2 --save
+npm install @shengtaojin/iv-viewer-v2 --save
 
 # 使用 yarn
-yarn add iv-viewer-v2
+yarn add @shengtaojin/iv-viewer-v2
 ```
 
 ## 使用方法
@@ -28,7 +28,7 @@ yarn add iv-viewer-v2
 ```javascript
 // main.js
 import Vue from 'vue'
-import IVViewer from 'iv-viewer-v2'
+import IVViewer from '@shengtaojin/iv-viewer-v2'
 
 Vue.component('iv-viewer', IVViewer)
 
@@ -55,7 +55,7 @@ new Vue({
 </template>
 
 <script>
-import IVViewer from 'iv-viewer-v2'
+import IVViewer from '@shengtaojin/iv-viewer-v2'
 
 export default {
   components: {
